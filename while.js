@@ -10,3 +10,9 @@ while (times < 5){
     console.log(name);
     times ++;
 }
+
+let numb = 0;
+while(numb <= 12){
+    console.log(numb);
+    numb++;
+}
