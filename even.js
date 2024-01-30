@@ -12,13 +12,14 @@
 //     i++;
 // }
 
-let numb = 1;
-while(numb <= 10){
-    console.log(numb);
+// let numb = 1;
+// while(numb <= 10){
+//     console.log(numb);
 
 
-    if(numb % 2 === 0){
-        console.log(numb);
-    }
-    numb++;
-}
+//     if(numb % 2 === 0){
+//         console.log(numb);
+//     }
+//     numb++;
+// }
+
