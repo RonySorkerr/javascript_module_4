@@ -5,3 +5,11 @@ while(fNumber <= 100){
     }
     fNumber++;
 }
+
+let sNumber = 61;
+while(sNumber <= 100){
+    if(sNumber % 2 === 1){
+        console.log('The odd number is : ' , sNumber);
+    }
+    sNumber++;
+}
